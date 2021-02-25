@@ -15,6 +15,7 @@ Features of the API
 6. Implement Munit test for all the flows
 7. Externalize the properties
 8. Implement secure property configuraiton to encrypt sensitive data
+9. Implement domain project
 
 
 Get flow

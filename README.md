@@ -1,9 +1,9 @@
 # customer-bank-home-test-repo
 
-mule server version-4.3.0
-Anypoint studio version-7.6.0
-Control plane-Mule controlled  
-Runtime plane- Client controlled on premise deployment
+**mule server version-4.3.0
+Anypoint studio version-7.6.0**
+**Control plane-Mule controlled**  
+**Runtime plane- Client controlled on premise deployment**
 
 Features of the API
 

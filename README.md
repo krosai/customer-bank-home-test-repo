@@ -13,6 +13,8 @@ Features of the API
 4. Have JWT validation using Anth0 using grand type as **Authorization_code** on post flow
 5. Implenment validation check to check the integrity of the payload
 6. Implement Munit test for all the flows
+7. Externalize the properties
+8. Implement secure property configuraiton to encrypt sensitive data
 
 
 Get flow
